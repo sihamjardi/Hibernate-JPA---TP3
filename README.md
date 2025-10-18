@@ -1,2 +1,26 @@
-"# Hibernate-JPA---TP3" 
-"# Hibernate-JPA---TP3" 
+"# Hibernate-JPA---TP3"
+<img width="1919" height="996" alt="Capture d'écran 2025-10-19 010305" src="https://github.com/user-attachments/assets/48e49120-afd0-4414-bed5-3de167cad4b8" />
+<img width="1919" height="1003" alt="Capture d'écran 2025-10-19 010255" src="https://github.com/user-attachments/assets/83d77c5d-b257-4e61-a1c0-1de52242eeff" />
+<img width="1906" height="998" alt="Capture d'écran 2025-10-19 010240" src="https://github.com/user-attachments/assets/a50c5717-6ca6-461b-baaf-9a5be6471d2a" />
+<img width="1919" height="957" alt="Capture d'écran 2025-10-19 010231" src="https://github.com/user-attachments/assets/29fe7f19-a51c-4026-8d7b-bca3c55b739a" />
+<img width="1919" height="1010" alt="Capture d'écran 2025-10-19 010222" src="https://github.com/user-attachments/assets/5cba4be4-9a33-45a2-9a5f-4f18cd878401" />
+<img width="1919" height="990" alt="Capture d'écran 2025-10-19 010209" src="https://github.com/user-attachments/assets/cc49206d-e04a-422d-8533-a6beb6e17a52" />
+<img width="1906" height="1004" alt="Capture d'écran 2025-10-19 010159" src="https://github.com/user-attachments/assets/8bd84381-b4cf-4b09-a49c-c2dbc94520df" />
+<img width="1897" height="994" alt="Capture d'écran 2025-10-19 010148" src="https://github.com/user-attachments/assets/62ba3772-1b1f-40db-98a8-e0fb5e093747" />
+<img width="1912" height="961" alt="Capture d'écran 2025-10-19 010136" src="https://github.com/user-attachments/assets/5291db66-8065-4367-ba33-88364e5cebe6" />
+<img width="1918" height="1000" alt="Capture d'écran 2025-10-19 010124" src="https://github.com/user-attachments/assets/5a52daf1-4998-4854-8acb-089afc72d729" />
+<img width="1917" height="990" alt="Capture d'écran 2025-10-19 010113" src="https://github.com/user-attachments/assets/7d44edbb-e3e5-48f4-b3c2-ac24f82eabc9" />
+<img width="1919" height="1010" alt="Capture d'écran 2025-10-19 010100" src="https://github.com/user-attachments/assets/1e2eb3ee-0453-49a5-83c0-639fba145640" />
+<img width="1919" height="999" alt="Capture d'écran 2025-10-19 010049" src="https://github.com/user-attachments/assets/c44c9de6-12d6-4839-93d2-51f0903850e5" />
+<img width="1919" height="983" alt="Capture d'écran 2025-10-19 010035" src="https://github.com/user-attachments/assets/f20bfcda-4858-444b-bc44-a27096a12d50" />
+<img width="1910" height="1011" alt="Capture d'écran 2025-10-19 010026" src="https://github.com/user-attachments/assets/4a4e58ab-7fe7-4f4c-af68-a421cbdf27d3" />
+<img width="1919" height="977" alt="Capture d'écran 2025-10-19 010013" src="https://github.com/user-attachments/assets/f0fc87fa-4e06-4947-af05-cba1e9582abc" />
+<img width="1919" height="965" alt="Capture d'écran 2025-10-19 010003" src="https://github.com/user-attachments/assets/6c1789f4-ea49-4024-9191-84f9a22b1980" />
+<img width="1919" height="1005" alt="Capture d'écran 2025-10-19 005950" src="https://github.com/user-attachments/assets/9bd7e6b1-b26b-4531-b08f-09055b97d0b2" />
+<img width="1919" height="1005" alt="Capture d'écran 2025-10-19 005940" src="https://github.com/user-attachments/assets/29bc6e64-2711-4f23-835d-80f87ca78b28" />
+<img width="1919" height="993" alt="Capture d'écran 2025-10-19 005929" src="https://github.com/user-attachments/assets/a4c39661-2414-4bef-b05a-b947d7dcfcfc" />
+<img width="1919" height="991" alt="Capture d'écran 2025-10-19 005850" src="https://github.com/user-attachments/assets/f840aab3-253d-4321-9a06-6a8c6adf2cea" />
+<img width="1919" height="980" alt="Capture d'écran 2025-10-19 005838" src="https://github.com/user-attachments/assets/612102a2-c3bf-49e2-a6fe-5c6680219d71" />
+<img width="1919" height="973" alt="Capture d'écran 2025-10-19 005822" src="https://github.com/user-attachments/assets/712f0505-4c7e-4ca8-955d-70004384ddbb" />
+<img width="1919" height="968" alt="Capture d'écran 2025-10-19 005813" src="https://github.com/user-attachments/assets/d087cb59-3337-45a0-af8f-1db37d829992" />
+<img width="1908" height="1008" alt="Capture d'écran 2025-10-19 005800" src="https://github.com/user-attachments/assets/498ec7c6-d2a3-453d-bf46-0fc4f58e1b8d" />
